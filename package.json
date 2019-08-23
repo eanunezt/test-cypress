@@ -1,0 +1,27 @@
+{
+  "name": "test-cypres",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^3.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eanunezt/test-cypress.git"
+  },
+  "keywords": [
+    "cypress",
+    "test"
+  ],
+  "author": "eanunezt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eanunezt/test-cypress/issues"
+  },
+  "homepage": "https://github.com/eanunezt/test-cypress#readme"
+}
