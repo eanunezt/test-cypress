@@ -40,8 +40,7 @@ describe('Los estudiantes login', function() {
         //filtro por materia  Estructuras De Datos y Pruebas Automáticas
         //cy.contains('a','Filtrar por materia').click()
         cy.get('.materias').contains('label','Estructuras De Datos').find('input').check()
-        cy.get('.materias').contains('label','Pruebas Automáticas').find('input').check()
-       
+        cy.get('.materias').contains('label','Pruebas Automáticas').find('input').check()      
         
     })
 })
